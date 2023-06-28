@@ -4,7 +4,7 @@ This repo is for module four's challenge assignment.
 
 ## Description
 
-The challenge is an Job-seeking coding assessment or take-home assignment (no starter code is provided, we will build this web application by scratch). The goal is to create an application of a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that I wrote. It will have a clean, polished, and responsive user interface.
+The challenge is an Job-seeking coding assessment or take-home assignment (no starter code is provided, we will build this web application by scratch). The goal is to create an application of a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code and the use of Web APIs. It will have a clean, polished, and responsive user interface.
 
 The motivation behind this project was to learn how to utilize the JavaScript skills we have been learning. I built this project in order to hone my own skills in HTML, CSS, Git and especially JavaScript. The problem it solved is creating a timed coding quiz application to work on the JavaScript skills I've learned in the bootcamp.
 
@@ -34,12 +34,12 @@ THEN I can save my initials and score
 
 ## Accessing the Repo or Webpage:
 
-- GitHub Repo URL: https://github.com/kevindimayuga/module-three-challenge
-- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-three-challenge/
+- GitHub Repo URL: https://github.com/kevindimayuga/module-four-challenge
+- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-four-challenge/
 
 ## Webpage Screenshot
 
-![module three challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-three-challenge.png)
+![module four challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-three-challenge.png)
 
 ## Table of Contents
 
@@ -79,13 +79,21 @@ JavaScript Updates
 // comments were made as needed in the JavaScript file
 ```
 
+Web APIs Updates
+```
+// comments were made as needed in the JavaScript file
+```
+
 ## Usage
 
-- Go to the Password Generator web application
-- Click on "Generate Password" to begin password generation process
-- Follow the prompts and fill in the criteria you are looking for in a random-generated password
-- Once you complete each prompt, a secured and random password will be created in the middle of the form
-- You can now use that password for your accounts/logins
+- Go to the Code Quiz web application
+- Begin the Code Quiz by clicking the "Start Quiz" button
+- Go through each multiple choice question by selecting an answer (ideally the correct one)
+- It will notify you if you are "correct" or "wrong" after selecting each answer
+- After you complete the questions, you will be given a final score on how well you did
+- Enter initials to submit final score
+- View all high scores for the Code Quiz
+- Click either the "Go Back" button to try the quiz again or "Clear high scores" to clear all previous scores
 
 ## Credits
 
