@@ -80,7 +80,7 @@ JavaScript Updates
 
 Web APIs Updates
 ```
-// comments were made as needed in the JavaScript file
+// comments were made as needed in the HTML and JavaScript file
 ```
 
 ## Usage
