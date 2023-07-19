@@ -1,4 +1,4 @@
-# Module 4 Challenge - Web APIs Code Quiz
+# Code Quiz
 
 This repo is for module four's challenge assignment.
 
@@ -34,12 +34,12 @@ THEN I can save my initials and score
 
 ## Accessing the Repo or Webpage:
 
-- GitHub Repo URL: https://github.com/kevindimayuga/module-four-challenge
-- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-four-challenge/
+- GitHub Repo URL: https://github.com/kevindimayuga/code-quiz-kd
+- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/code-quiz-kd/
 
 ## Webpage Screenshot
 
-![module four challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-three-challenge.png)
+![code quiz webpage screenshot](./assets/images/kevindimayuga.github.io_code-quiz-kd.png)
 
 ## Table of Contents
 
