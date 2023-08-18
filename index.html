@@ -17,7 +17,7 @@
     <div class="container">
         <div id="home-page">
             <h1>Code Quiz</h1>
-            <h2>Quiz to test your coding and web development skills</h2>
+            <h2>This assessment will test your coding and web development skills</h2>
             <button id="start-btn">Start Quiz</button>
             <button id="highscore-btn" onclick="showHighscore()">High Scores</button>
         </div>
@@ -32,6 +32,27 @@
             <button id="c" onclick="checkAnswer('c')">C</button>
             <button id="d" onclick="checkAnswer('d')">D</button>
             <div id="result"></div>
+        </div>
+
+        <div id="game-over">
+            <div id="final-score"></div>
+            <input type="text" size="40" placeholder="Enter you initials for high score" name="intials" id="initials" />
+            <button id="submit-score">Submit Score</button>
+        </div>
+
+        <div id="highscore-container">
+            <div id="highscore-page">
+                <div id="highscore-header">
+                    <h3>User Initials</h3>
+                    <h3>Score</h3>
+                </div>
+                <div id="highscore-initials"></div>
+                <div id="highscore-score"></div>
+            </div>
+            <div id="gameover-btns">
+                <button id="play-again" onclick="replayQuiz()">Play Again</button>
+                <button id="clear-highscore" onclick="clearScore()">Clear Highscores</button>
+            </div>
         </div>
 
     </div>
