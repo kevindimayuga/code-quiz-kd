@@ -67,7 +67,7 @@ button:hover {
 #timer {
     font-family: sans-serif;
     background-color: #DDD0C8;
-    color: red;
+    color:#323232;
     font-size: x-large;
     text-shadow: .5px .5px black;
     text-align: center;
@@ -88,27 +88,27 @@ button:hover {
     align-items: center;
 }
 
-#highscore-page {
+#highScore-page {
     display: none;
     width: 50%;
     border: solid;
-    border-color: red;
+    border-color: #323232;
     border-bottom-style: groove;
     padding-bottom: .3rem;
     background: #DDD0C8;
 }
 
-#highscore-header {
+#highScore-header {
     display: flex;
     justify-content: space-around;
     border-bottom-style: outset;
     margin-bottom: .5rem;
     background-color: #323232;
-    color: red;
+    color:#DDD0C8;
     font-family: sans-serif;
 }
 
-#highscore-container {
+#highScore-container {
     height: 100%;
     width: 100%;
     display: none;
@@ -122,14 +122,14 @@ button:hover {
     height: 1.75rem;
 }
 
-#highscore-initials {
+#highScore-initials {
     display: inline-block;
     padding-left: 9.5rem;
     font-family: sans-serif;
     font-weight: bold;
 }
 
-#highscore-result {
+#highScore-result {
     float: right;
     padding-right: 8.75rem;
     font-family: sans-serif;
@@ -143,6 +143,6 @@ button:hover {
     font-weight: bold;
 }
 
-#gameover-btns {
+#gameOver-btns {
     display: none;
 }
