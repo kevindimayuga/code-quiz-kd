@@ -1,26 +1,29 @@
 /* universal css */
-:root {
-    background-color: white;
+:root, body {
+    background-color: #DDD0C8;
 }
 
 li {
     padding-bottom: 3px;
-    color: white;
+    color: #DDD0C8;
     text-shadow: 1.5px 1px 3px black;
     list-style-type: none;
 }
 
 p {
     color: black;
-    text-shadow: .5px .5px white;
+    text-shadow: .5px .5px #DDD0C8;
     text-align: center;
     font-size: xx-large;
     font-family: sans-serif;
 }
-
+h1 {
+    padding: 5px;
+}
 h2 {
     font-family: sans-serif;
     margin-top: -.5rem;
+    padding: 10px;
 }
 
 input {
@@ -40,10 +43,10 @@ input {
 button {
     display: inline-block;
     font-family: sans-serif;
-    background-color: #5e6df1;
+    background-color: #323232;
     border-radius: 10px;
-    border: 3px double #cccccc;
-    color: #eeeeee;
+    border: 3px double #DDD0C8;
+    color: #DDD0C8;
     text-align: center;
     font-size: 15px;
     padding: 20px;
@@ -52,7 +55,7 @@ button {
 }
 
 button:hover {
-    box-shadow: 4px 3px 6px #4450bd;
+    box-shadow: 4px 3px 6px #323232;
 }
 
 #home-page {
@@ -63,8 +66,8 @@ button:hover {
 
 #timer {
     font-family: sans-serif;
-    background-color: #5a69f0;
-    color: #eeeeee;
+    background-color: #DDD0C8;
+    color: red;
     font-size: x-large;
     text-shadow: .5px .5px black;
     text-align: center;
@@ -89,10 +92,10 @@ button:hover {
     display: none;
     width: 50%;
     border: solid;
-    border-color: silver;
+    border-color: red;
     border-bottom-style: groove;
     padding-bottom: .3rem;
-    background: lightsteelblue;
+    background: #DDD0C8;
 }
 
 #highscore-header {
@@ -100,8 +103,8 @@ button:hover {
     justify-content: space-around;
     border-bottom-style: outset;
     margin-bottom: .5rem;
-    background-color: #5e6df1;
-    color: #eeeeee;
+    background-color: #323232;
+    color: red;
     font-family: sans-serif;
 }
 
