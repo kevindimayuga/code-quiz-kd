@@ -1,5 +1,6 @@
 /* universal css */
-:root, body {
+:root,
+body {
     background-color: #DDD0C8;
 }
 
@@ -17,9 +18,11 @@ p {
     font-size: xx-large;
     font-family: sans-serif;
 }
+
 h1 {
     padding: 5px;
 }
+
 h2 {
     font-family: sans-serif;
     margin-top: -.5rem;
@@ -67,7 +70,7 @@ button:hover {
 #timer {
     font-family: sans-serif;
     background-color: #DDD0C8;
-    color:#323232;
+    color: #323232;
     font-size: x-large;
     text-shadow: .5px .5px black;
     text-align: center;
@@ -104,7 +107,7 @@ button:hover {
     border-bottom-style: outset;
     margin-bottom: .5rem;
     background-color: #323232;
-    color:#DDD0C8;
+    color: #DDD0C8;
     font-family: sans-serif;
 }
 

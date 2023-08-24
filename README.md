@@ -8,30 +8,6 @@ The challenge is an Job-seeking coding assessment or take-home assignment (no st
 
 The motivation behind this project was to learn how to utilize all the previous skills we have learned as well as the utilization of Web APIs we've been learning. I built this project in order to hone my own skills in HTML, CSS, Git, JavaScript and Web APIs. The problem it solved is creating a timed coding quiz application to work on the coding skills I've learned in the bootcamp thus far.
 
-## User Story
-
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
-
-## Acceptance Criteria
-
-```
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
-```
-
 ## Accessing the Repo or Webpage:
 
 - GitHub Repo URL: https://github.com/kevindimayuga/code-quiz-kd
@@ -47,6 +23,11 @@ THEN I can save my initials and score
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [Features](#features)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [Contacts](#Contacts)
 
 ## Installation
 
@@ -88,11 +69,11 @@ Web APIs Updates
 - Go to the Code Quiz web application
 - Begin the Code Quiz by clicking the "Start Quiz" button
 - Go through each multiple choice question by selecting an answer (ideally the correct one)
-- It will notify you if you are "correct" or "wrong" after selecting each answer
+- It will notify you if you are "correct" or "incorrect" after selecting each answer
 - After you complete the questions, you will be given a final score on how well you did
-- Enter initials to submit final score
-- View all high scores for the Code Quiz
-- Click either the "Go Back" button to try the quiz again or "Clear high scores" to clear all previous scores
+- Enter initials and click "Submit Score" to add high score to high score leaderboard
+- View all high scores
+- Click either the "Play Again" button to take the quiz again or "Clear Highscores" to clear all previous scores from the leaderboard
 
 ## Credits
 
@@ -101,11 +82,11 @@ I used the following resources to help guide me to complete the portfolio projec
 - [How to take a full page screenshot with a hidden Chrome shortcut](https://zapier.com/blog/full-page-screenshots-in-chrome/)
 - [JavaScript Tutorial](https://www.w3schools.com/js/)
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
-- [Password Special Characters](https://owasp.org/www-community/password-special-characters)
 - [Window prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp)
 - [JavaScript While Loop](https://www.w3schools.com/js/js_loop_while.asp)
 - [JavaScript if, else, and else if](https://www.w3schools.com/js/js_if_else.asp)
 - [JavaScript For Loop](https://www.w3schools.com/js/js_loop_for.asp)
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ## License
 
@@ -119,10 +100,15 @@ N/A
 
 N/A
 
-## How to Contribute
+## Contributions
 
 N/A
 
 ## Tests
 
 N/A
+
+## Contacts
+
+- GitHub: [kevindimayuga](https://github.com/kevindimayuga)
+- Email: k.dimayuga22@gmail.com
