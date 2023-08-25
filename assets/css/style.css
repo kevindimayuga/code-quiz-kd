@@ -149,3 +149,5 @@ button:hover {
 #gameOver-btns {
     display: none;
 }
+
+/* Media Query to allow for responsiveness for mobile devices, etc. */
