@@ -1,6 +1,6 @@
 # Code Quiz
 
-This repo is for module four's challenge assignment.
+M4 - This repo is a Code Quiz application. It is a timed, multiple-choice quiz for users to test their coding knowledge.
 
 ## Description
 
