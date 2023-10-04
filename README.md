@@ -1,7 +1,6 @@
 # Code Quiz
 
-M4 - This repo is a Code Quiz application. It is timed and includes multiple-choice questions for users answer and test their coding knowledge.
-
+M4 - This repo is a Code Quiz application. It is timed and includes multiple-choice questions for users to answer. The test includes questions about coding and web development.
 ## Description
 
 The challenge is an Job-seeking coding assessment or take-home assignment (no starter code is provided, we will build this web application by scratch). The goal is to create an application of a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code and the use of Web APIs. It will have a clean, polished, and responsive user interface.
