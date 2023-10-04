@@ -1,6 +1,6 @@
 # Code Quiz
 
-M4 - This repo is a Code Quiz application. It is a timed, multiple-choice quiz for users to test their coding knowledge.
+M4 - This repo is a Code Quiz application. It is timed and includes multiple-choice questions for users answer and test their coding knowledge.
 
 ## Description
 
