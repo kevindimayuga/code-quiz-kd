@@ -216,6 +216,7 @@ function checkAnswer(answer) {
         // This will display to the user that the answer is correct
     } else if (answer !== correct && currentQuestionIndex !== finalQuestionIndex) {
         alert("That Is Incorrect.")
+        timeLeft -= 10;
         currentQuestionIndex++;
         generateQuizQuestion();
         //This will display to the user that the answer is incorrect
